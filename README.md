@@ -10,13 +10,13 @@ Different version of ALBERT pre-trained model for Chinese, including TensorFlow,
 Pre-training the ALBERT model on a large amount of Chinese corpus: fewer parameters and better results. The pre-training small model can also win 13 NLP missions, and the ALBERT three major transformations topped the GLUE benchmark.
 
 Update
-***** 2019-10-06: albert_xlarge_zh *****
+*****2019-10-06: albert_xlarge_zh*****
 
 Released albert_xlarge_zh, 59M parameters, half parameters of bert_base, 200M.
 
 Rank top 1 for LCQMC dataset up to now, up 0.5 percentage
 
-***** 2019-10-04: PyTorch and Keras versions of albert were supported *****
+*****2019-10-04: PyTorch and Keras versions of albert were supported *****
 
 Convert to PyTorch version and do your tasks through albert_pytorch
 
@@ -24,7 +24,7 @@ Load pre-trained model with keras using one line of codes through bert4keras
 
 Releasing albert_xlarge on 6th Oct
 
-***** 2019-10-02: albert_large_zh, albert_base_zh *****
+*****2019-10-02: albert_large_zh, albert_base_zh *****
 
 Relesed albert_base_zh with only 10% parameters of bert_base, a small model(40M) & training can be very fast.
 
